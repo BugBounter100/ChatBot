@@ -1,6 +1,6 @@
 # ChatBot with websocket python Programming 
 
-#**Import some packages and libraries**
+#**Import some packages and libraries**                                                                                                                                         
 '''
 import json                                                                                                                                                                         
 import numpy as np                                                                                                                                                                 
